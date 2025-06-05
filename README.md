@@ -119,10 +119,6 @@ curl -X POST -H "X-API-Key: your-api-key" -H "Content-Type: application/json" \
   http://localhost:3000/api/products
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ## Files Included
 
 - `Week2-Assignment.md`: Detailed assignment instructions
